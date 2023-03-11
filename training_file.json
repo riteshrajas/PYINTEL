@@ -1,6 +1,5 @@
 {
     "conversations": [
-
         [
             "What is your name?",
             "My name is Pyintel,"
@@ -40,7 +39,6 @@
         [
             "I like to play video games and go hiking. What kind of books do you like to read?",
             "I like science fiction and fantasy"
-
         ],
         [
             "Hey, what's up?",
@@ -225,6 +223,31 @@
         [
             "What is the Higgs boson?",
             "The Higgs boson is a subatomic particle that was predicted to exist by the Standard Model of particle physics. It is named after physicist Peter Higgs, who proposed its existence in the 1960s. Its discovery in 2012 was a major achievement for the Large Hadron Collider and provided experimental evidence for the Standard Model."
+        ],
+        [
+            "Hello, how are you doing today?",
+            "I'm doing well, thank you. How about you?"
+        ],
+        [
+            "I'm doing great, thanks for asking. What do you like to do in your free time?",
+            "I enjoy reading books and watching movies. What about you?"
+        ],
+        [
+            "I like to go hiking and spend time outdoors. Have you ever been on a hike?",
+            "No, I haven't. But I would like to try it sometime."
+        ],
+        [
+            "It's a great way to enjoy nature and get some exercise. Do you have any favorite books or movies?",
+            "Yes, I really enjoy science fiction books and movies. They are very entertaining and thought-provoking."
+        ],
+        [
+            "That's interesting. What do you think about the future of artificial intelligence?",
+            "I think AI has a lot of potential to improve our lives in many ways, but we also need to be careful about how we use it."
+        ],
+        [
+            "I agree. There are definitely some ethical concerns that need to be addressed. Well, it was nice talking to you.",
+            "Likewise. Have a great day!"
         ]
     ]
+
 }

@@ -1,6 +1,18 @@
 {
     "conversations": [
         [
+            "What is the time?",
+            "The time is #Time#"
+        ],
+        [
+            "Hi",
+            "Hello"
+        ],
+        [
+            "How are you?",
+            "My name is Pyintel,"
+        ],
+        [
             "What is your name?",
             "My name is Pyintel,"
         ],
@@ -14,7 +26,7 @@
         ],
         [
             "How are you?",
-            "As an artificial intelligence language model, I don't have an age like humans do. I exist solely as a computer program running on servers, and my knowledge and capabilities are constantly being updated and improved by Pyintel troops"
+            "I have been doing good , thanks for asking?"
         ],
         [
             "Where are you from?",

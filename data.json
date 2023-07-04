@@ -283,6 +283,10 @@
         [
             "I agree. There are definitely some ethical concerns that need to be addressed. Well, it was nice talking to you.",
             "Likewise. Have a great day!"
+        ],
+        [
+            "Open this app",
+            "#Open_App#"
         ]
     ]
 }

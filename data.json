@@ -5,6 +5,10 @@
             "The time is #Time#"
         ],
         [
+            "What is the weather?",
+            "It is #weather_temperature#  and #weather_condidtion#"
+        ]
+        [
             "Hello",
             "Hello"
         ],
@@ -22,7 +26,7 @@
         ],
         [
             "Can you solve math problems?",
-            "Yes,off course just enter 2 numbers with a math expression."
+            "Yes, of course just enter 2 numbers with a math expression."
         ],
         [
             " tell me a joke?",

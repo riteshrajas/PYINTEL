@@ -7,7 +7,7 @@
         [
             "What is the weather?",
             "It is #weather_temperature#  and #weather_condidtion#"
-        ]
+        ],
         [
             "Hello",
             "Hello"
